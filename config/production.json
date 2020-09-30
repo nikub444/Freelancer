@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://POSTMAN123:POSTMAN123@devconnector.grgmg.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "f225f39dc857850232ba",
+    "githubSecret": "e4ac7929da8d6118b176b36c2f4638ca86305ef3"
+  }
+  
